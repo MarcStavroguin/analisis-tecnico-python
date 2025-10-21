@@ -1,4 +1,4 @@
-# 📘 Guía de indicadores técnicos (actualizada)
+# 📘 Guía de indicadores técnicos
 **Referencia cruzada entre el código del programa y el libro de John J. Murphy _Análisis técnico de los mercados financieros_**  
 *(Incluye descripción de colores, estilos de línea y marcadores utilizados en las gráficas)*
 
