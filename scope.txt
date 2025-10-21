@@ -1,1 +1,4 @@
+## Introducir ticker de empresa aquí siguiendo el formato de yahoo finance ##
+## Ej:
 IDR.MC
+
